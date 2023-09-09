@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/4c78eac5173643fdbf053ec98e0a368b/artifacts
+end_time: 1694280803680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c78eac5173643fdbf053ec98e0a368b
+run_name: bright-crab-383
+run_uuid: 4c78eac5173643fdbf053ec98e0a368b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280803571
+status: 3
+tags: []
+user_id: venka

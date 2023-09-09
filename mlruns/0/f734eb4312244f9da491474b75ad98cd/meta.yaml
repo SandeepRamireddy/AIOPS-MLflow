@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/f734eb4312244f9da491474b75ad98cd/artifacts
+end_time: 1694280818240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f734eb4312244f9da491474b75ad98cd
+run_name: victorious-quail-957
+run_uuid: f734eb4312244f9da491474b75ad98cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280818103
+status: 3
+tags: []
+user_id: venka

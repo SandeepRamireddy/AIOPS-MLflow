@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/bcb0a843fc8e46bf804eb68d76c96a21/artifacts
+end_time: 1694280812766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcb0a843fc8e46bf804eb68d76c96a21
+run_name: unique-sow-982
+run_uuid: bcb0a843fc8e46bf804eb68d76c96a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280812702
+status: 3
+tags: []
+user_id: venka

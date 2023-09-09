@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/e277cf3e1d69422e885d497efc174ead/artifacts
+end_time: 1694280830764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e277cf3e1d69422e885d497efc174ead
+run_name: thundering-crab-402
+run_uuid: e277cf3e1d69422e885d497efc174ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280830680
+status: 3
+tags: []
+user_id: venka

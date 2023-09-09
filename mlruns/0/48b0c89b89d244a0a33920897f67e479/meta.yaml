@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/48b0c89b89d244a0a33920897f67e479/artifacts
+end_time: 1694280796890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48b0c89b89d244a0a33920897f67e479
+run_name: judicious-kite-351
+run_uuid: 48b0c89b89d244a0a33920897f67e479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280796788
+status: 3
+tags: []
+user_id: venka

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/7787c941b6304667919260b2f938b5c5/artifacts
+end_time: 1694280823573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7787c941b6304667919260b2f938b5c5
+run_name: efficient-dog-138
+run_uuid: 7787c941b6304667919260b2f938b5c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280823509
+status: 3
+tags: []
+user_id: venka

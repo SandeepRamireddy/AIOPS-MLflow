@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/fec2825a20e642ef94a38478cafcfc2d/artifacts
+end_time: 1694280822113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fec2825a20e642ef94a38478cafcfc2d
+run_name: fun-duck-686
+run_uuid: fec2825a20e642ef94a38478cafcfc2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280822066
+status: 3
+tags: []
+user_id: venka

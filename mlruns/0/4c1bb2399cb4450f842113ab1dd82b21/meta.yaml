@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/4c1bb2399cb4450f842113ab1dd82b21/artifacts
+end_time: 1694280825243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c1bb2399cb4450f842113ab1dd82b21
+run_name: carefree-boar-28
+run_uuid: 4c1bb2399cb4450f842113ab1dd82b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280825147
+status: 3
+tags: []
+user_id: venka

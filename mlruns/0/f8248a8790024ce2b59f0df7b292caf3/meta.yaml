@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/f8248a8790024ce2b59f0df7b292caf3/artifacts
+end_time: 1694280801187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8248a8790024ce2b59f0df7b292caf3
+run_name: useful-duck-248
+run_uuid: f8248a8790024ce2b59f0df7b292caf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280801094
+status: 3
+tags: []
+user_id: venka

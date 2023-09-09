@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/a1d28cb3ac184e838b716c553b4e0ad3/artifacts
+end_time: 1694280791194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d28cb3ac184e838b716c553b4e0ad3
+run_name: welcoming-dove-249
+run_uuid: a1d28cb3ac184e838b716c553b4e0ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280791130
+status: 3
+tags: []
+user_id: venka

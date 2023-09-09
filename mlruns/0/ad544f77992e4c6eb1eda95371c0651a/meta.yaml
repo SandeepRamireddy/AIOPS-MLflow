@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/ad544f77992e4c6eb1eda95371c0651a/artifacts
+end_time: 1694280815122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad544f77992e4c6eb1eda95371c0651a
+run_name: caring-fawn-819
+run_uuid: ad544f77992e4c6eb1eda95371c0651a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280815080
+status: 3
+tags: []
+user_id: venka

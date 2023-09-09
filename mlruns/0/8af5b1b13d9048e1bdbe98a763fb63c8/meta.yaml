@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/8af5b1b13d9048e1bdbe98a763fb63c8/artifacts
+end_time: 1694280827143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8af5b1b13d9048e1bdbe98a763fb63c8
+run_name: abundant-bass-978
+run_uuid: 8af5b1b13d9048e1bdbe98a763fb63c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280827096
+status: 3
+tags: []
+user_id: venka

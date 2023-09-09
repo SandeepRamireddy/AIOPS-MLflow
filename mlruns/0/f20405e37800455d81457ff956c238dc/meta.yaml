@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/f20405e37800455d81457ff956c238dc/artifacts
+end_time: 1694280834129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f20405e37800455d81457ff956c238dc
+run_name: chill-vole-451
+run_uuid: f20405e37800455d81457ff956c238dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280834043
+status: 3
+tags: []
+user_id: venka

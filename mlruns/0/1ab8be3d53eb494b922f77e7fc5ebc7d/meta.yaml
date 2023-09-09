@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLOPS/AIOPS-MLflow/mlruns/0/1ab8be3d53eb494b922f77e7fc5ebc7d/artifacts
+end_time: 1694280788775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ab8be3d53eb494b922f77e7fc5ebc7d
+run_name: gregarious-sow-601
+run_uuid: 1ab8be3d53eb494b922f77e7fc5ebc7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280788673
+status: 3
+tags: []
+user_id: venka
